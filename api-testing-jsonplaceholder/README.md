@@ -1,5 +1,4 @@
-# API Testing Project – JSONPlaceholder
-
+# API Testing Project
 This project demonstrates basic manual API testing using a free REST API.
 
 ## Tools
